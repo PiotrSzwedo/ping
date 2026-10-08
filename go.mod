@@ -1,4 +1,4 @@
-module 2026-10-04-my_own_ping
+module ping
 
 go 1.26.0
 
